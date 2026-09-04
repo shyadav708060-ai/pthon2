@@ -11,3 +11,6 @@ print(list[8])
 print(list[9])
 print(list[10])
 print(list[11])     
+print(len(list))
+
+      )
